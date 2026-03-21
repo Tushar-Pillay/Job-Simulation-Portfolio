@@ -2,7 +2,7 @@
 **Platform: Forage**
 
 ## 📜 Certificate
-![Deloitte Data Analytics Certificate](https://github.com/Tushar-Pillay/virtual-internships/blob/main/Deloitte/Certificate.png)
+![Deloitte Data Analytics Certificate](https://github.com/Tushar-Pillay/virtual-internships/blob/main/Deloitte%20Data%20Analytics/Certificate.png)
 
 🔗 **Certificate Reference Link:**  
 [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_JFEytdwinvrneF5hC_1774025695295_completion_certificate.pdf)
@@ -24,9 +24,9 @@ building dashboards, and deriving actionable business insights.
 
 - Completed a Deloitte job simulation involving **data analysis and forensic technology**  
 - Created an **interactive data dashboard using Tableau**
-      [Dashboard Tableau](https://github.com/Tushar-Pillay/virtual-internships/blob/main/Deloitte/Deloitte%20Manufacture%20Copmany%20task%201%20resport%20Tableau.twb)
+      [Dashboard Tableau](https://github.com/Tushar-Pillay/virtual-internships/blob/main/Deloitte%20Data%20Analytics/Deloitte%20Manufacture%20Copmany%20task%201%20resport%20Tableau.twb)
 - Used **Excel to classify data and draw business conclusions**
-       [Excel Analytics](https://github.com/Tushar-Pillay/virtual-internships/blob/main/Deloitte/Deloitte%20task%202%20Discrimination%20Finding.xlsx)
+       [Excel Analytics](https://github.com/Tushar-Pillay/virtual-internships/blob/main/Deloitte%20Data%20Analytics/Deloitte%20task%202%20Discrimination%20Finding.xlsx)
 
 ---
 
