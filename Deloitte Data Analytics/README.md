@@ -5,7 +5,7 @@
 ![Deloitte Data Analytics Certificate](https://github.com/Tushar-Pillay/virtual-internships/blob/main/Deloitte/Certificate.png)
 
 🔗 **Certificate Reference Link:**  
-[View Certificate](https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy/completed)
+[View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_JFEytdwinvrneF5hC_1774025695295_completion_certificate.pdf)
 
 ---
 
