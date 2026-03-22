@@ -1,6 +1,11 @@
 # BCG X – Generative AI Job Simulation  
 **Platform: Forage**
 
+## 📜 Certificate
+![BCG GenAI Certificate](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG/Screenshot%202026-03-22%20183552.png)
+
+🔗 [Click to verify](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_JFEytdwinvrneF5hC_1774183398729_completion_certificate.pdf)
+
 ## 📌 Project Overview
 This project showcases the completion of the **BCG X Generative AI Virtual Job Simulation**, focusing on applying data analysis and AI techniques to solve real-world financial and business problems.
 
@@ -23,13 +28,12 @@ The simulation involves extracting financial data from company reports, analyzin
 - Cleaned and structured data using Python  
 - Performed exploratory data analysis (EDA)  
 
-📄 **Python File:**  
-`task1_data_extraction_analysis.py`
+📄 **[Financial Analysis Python File](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG/Financial%20Analysis.ipynb)**
 
 📊 **Financial Report Sources:**
-- Apple: https://www.sec.gov/ixviewer/doc?action=display&source=content&filename=/Archives/edgar/data/0000320193/000032019323000106/aapl-20230930.htm  
-- Tesla: https://www.sec.gov/ixviewer/doc?action=display&source=content&filename=/Archives/edgar/data/0001318605/000095017024011378/tsla-20231231.htm  
-- Microsoft: https://www.sec.gov/ixviewer/doc?action=display&source=content&filename=/Archives/edgar/data/0000789019/000156459024000012/msft-20231231.htm  
+- [Apple](https://www.sec.gov/edgar/browse/?CIK=320193&owner=exclude)
+- [Tesla](https://www.sec.gov/edgar/browse/?CIK=1318605&owner=exclude) 
+- [Microsoft](https://www.sec.gov/edgar/browse/?CIK=789019&owner=exclude) 
 
 ---
 
@@ -38,8 +42,7 @@ The simulation involves extracting financial data from company reports, analyzin
 - Generated insights from extracted financial data  
 - Designed logic to answer user queries  
 
-📄 **Python File:**  
-`task2_financial_chatbot.py`
+📄 **[Chatbot Python File](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG/financial_chatbot.ipynb)
 
 ---
 
@@ -68,7 +71,4 @@ real-world consulting workflows at BCG X.
 
 ---
 
-## 📜 Certificate
-![BCG GenAI Certificate](BCG-GenAI.png)
 
-🔗 Verification: https://www.theforage.com/
