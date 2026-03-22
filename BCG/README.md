@@ -42,7 +42,7 @@ The simulation involves extracting financial data from company reports, analyzin
 - Generated insights from extracted financial data  
 - Designed logic to answer user queries  
 
-📄 **[Chatbot Python File](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG/financial_chatbot.ipynb)
+📄 **[Chatbot Python File](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG/financial_chatbot.ipynb)**
 
 ---
 
