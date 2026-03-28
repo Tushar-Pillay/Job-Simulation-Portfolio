@@ -36,6 +36,7 @@ in solving industry problems.
 - 🧠 [Deloitte Data Analytics Internship](https://github.com/Tushar-Pillay/virtual-internships/tree/main/Deloitte%20Data%20Analytics) 
 - 🤖 [BCG X – Generative AI Job Simulation](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG)
 - 📊 [BCG X - Introduction to Data for Decision Makers](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG%20%20Introduction%20to%20Data%20for%20Decision)
+- 📊 [BCG X Data Science Job Simulation](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG%20X%20Data%20Science%20Job%20Simulation)
 - 🏢 More internships will be added soon  
 
 ---
